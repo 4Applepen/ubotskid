@@ -15,5 +15,5 @@
 
 #### CONTATTI:
 
-[![Telegram](https://img.shields.io/badge/TG-%20@IOOIOIIIO-orange.svg)](https://t.me/Sqdboyuwu)
+[![Telegram](https://img.shields.io/badge/TG-%20@Sqdboyuwu-orange.svg)](https://t.me/Sqdboyuwu)
 
