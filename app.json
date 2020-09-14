@@ -1,7 +1,7 @@
 {
   "name": "userbotsqadboyuwu",
-  "logo": "https://templatefor.net/wp-content/uploads/2018/03/wp-anime-65248541.jpg",
-  "repository": "https://github.com/4Applepen/ubotskid",
+  "logo": "",
+  "repository": "https://github.com/4Applepen/Ubotskid",
   "env": {
     "ENV": {
       "description": "NON MODIFICARE serve per attivare Heroku.",
