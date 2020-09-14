@@ -1,6 +1,6 @@
 {
   "name": "userbot",
-  "logo": "",
+  "logo": "https://www.toptenz.net/wp-content/uploads/2019/01/red-dragon-3235672_640.jpg",
   "repository": "https://github.com/4Applepen/Ubotskid",
   "env": {
     "ENV": {
@@ -108,7 +108,7 @@
     "TZ": {
       "description": "Requisito per autopic.py Vai su http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Europe/Rome",
-      "required": false
+      "required": true
     }
   },
   "addons": [{
